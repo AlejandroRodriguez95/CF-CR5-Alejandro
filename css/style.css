@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+}
+
+#bg-black {
+  background-color: black;
+}
+
+img {
+  width: 50%;
+}
+
+.bg-notSoDark {
+  background-color: #181818;
+}
+
+a:hover {
+  cursor: pointer;
+  color: green;
+  font-weight: bold;
+}
+
+a::-moz-selection {
+  background-color: none;
+}
+
+a::selection {
+  background-color: none;
+}
+
+span::-moz-selection {
+  background-color: none;
+}
+
+span::selection {
+  background-color: none;
+}
+
+.likes {
+  padding: .5em;
+  margin-left: 1em;
+  color: green;
+  font-weight: bold;
+  border: solid green 3px;
+  border-radius: 25px;
+}
+/*# sourceMappingURL=style.css.map */

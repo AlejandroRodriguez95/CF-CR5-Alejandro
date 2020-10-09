@@ -1,0 +1,38 @@
+var films = `[
+    {
+        "name": "The Joker",
+        "description": "Lorem ipsum dolor sit amet consectetur.",
+        "image": "img1.jpg",
+        "likes": 8
+    },
+    {
+        "name": "Avatar",
+        "description": "Ducimus architecto provident quas corrupti porro dicta harum velit neque voluptatibus itaque et, a fugiat autem quaerat perspiciatis. Debitis quibusdam alias explicabo error omnis.",
+        "image": "img2.jpeg",
+        "likes": 9
+    },
+    {
+        "name": "Mars Attack",
+        "description": "Praesentium nulla voluptatibus, doloribus beatae",
+        "image": "img3.jpg",
+        "likes": 85
+    },
+    {
+        "name": "Avengers",
+        "description": "Quia ipsum soluta saepe quos minus, ducimus architecto provident quas corrupti porro dicta harum velit neque.",
+        "image": "img4.jpg",
+        "likes": 5
+    },
+    {
+        "name": "Hacker",
+        "description": "debitis earum nisi! Soluta quia doloremque laboriosam nisi?",
+        "image": "img5.jpg",
+        "likes": 9
+    },
+    {
+        "name": "Back to the Future",
+        "description": "Repellendus eaque mollitia tenetur doloremque?",
+        "image": "img6.webp",
+        "likes": 4
+    }
+]`;

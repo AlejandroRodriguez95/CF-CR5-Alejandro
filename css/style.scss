@@ -1,0 +1,35 @@
+$bg-notSoDark: #181818;
+
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding:0;
+}
+#bg-black{
+    background-color: black;
+}
+img{
+    width: 50%;
+}
+.bg-notSoDark{
+    background-color: $bg-notSoDark;
+}
+a:hover{
+    cursor:pointer;
+    color: green;
+    font-weight: bold;
+}
+a::selection{
+    background-color: none;
+}
+span::selection{
+    background-color: none;
+}
+.likes{
+    padding: .5em;
+    margin-left: 1em;
+    color: green;
+    font-weight: bold;
+    border: solid green 3px;
+    border-radius: 25px
+}
